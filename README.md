@@ -11,4 +11,5 @@ A Python password manager for securely storing, generating and managing credenti
 
 ## Status
 🚧 Work in progress
+
 Currently working on: Designing project structure
