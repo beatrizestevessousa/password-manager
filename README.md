@@ -1,5 +1,5 @@
 # Password Manager
-A Python password manager for securely storing, generating and managing credentials.
+A Python command-line password manager for securely storing, generating and managing credentials.
 
 
 ## Goals
@@ -12,4 +12,4 @@ A Python password manager for securely storing, generating and managing credenti
 ## Status
 🚧 Work in progress
 
-Currently working on: Designing project structure
+Currently working on: Planning
