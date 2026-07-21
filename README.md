@@ -12,4 +12,4 @@ A Python command-line password manager for securely storing, generating and mana
 ## Status
 🚧 Work in progress
 
-Currently working on: Planning
+Currently working on: create_vault function
